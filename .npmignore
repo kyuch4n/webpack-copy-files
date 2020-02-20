@@ -1,0 +1,14 @@
+# file
+.DS_Store
+.npm-debug.log
+.npmignore
+.eslintrc.json
+.eslintignore
+.gitignore
+.prettierignore
+package-lock.json
+yarn.lock
+
+# folder
+/dist
+/node_modules
